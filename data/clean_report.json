@@ -1,0 +1,13 @@
+{
+  "input_count": 30,
+  "output_count": 25,
+  "duplicates_removed": 0,
+  "empty_shells_removed": 5,
+  "filled_fields": {},
+  "filled_records_total": 0,
+  "unparsable_posted_at": 0,
+  "by_source": {
+    "mock": 20,
+    "scraped": 5
+  }
+}
